@@ -42,3 +42,22 @@
   color: #588aed;
   font-weight: 500;
 }
+
+.Deskripsi a {
+  margin-top: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  background: rgb(23, 23, 23);
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+
+.Deskripsi a:hover {
+  color: #ffffff;
+  background: rgb(246, 151, 151);
+  transition: all 0.3s;
+}
